@@ -25,8 +25,8 @@ export const Nvidia: Store = {
       model: 'founders edition',
       series: '3080ti',
       url:
-        'https://shop.nvidia.com/en-us/geforce/store/gpu/?page=1&limit=9&locale=en-us&&category=GPU&gpu=RTX%203080%20TI&manufacturer=NVIDIA'
-    }
+        'https://shop.nvidia.com/en-us/geforce/store/gpu/?page=1&limit=9&locale=en-us&&category=GPU&gpu=RTX%203080%20TI&manufacturer=NVIDIA',
+    },
   ],
   name: 'nvidia',
 };
