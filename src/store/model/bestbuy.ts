@@ -118,6 +118,13 @@ export const BestBuy: Store = {
       url: 'https://api.bestbuy.com/click/-/6429440/pdp',
     },
     {
+      brand: 'nvidia',
+      cartUrl: 'https://api.bestbuy.com/click/-/6462956/cart',
+      model: 'founders edition',
+      series: '3080ti',
+      url: 'https://api.bestbuy.com/click/-/6462956/pdp',
+    },
+    {
       brand: 'asus',
       cartUrl: 'https://api.bestbuy.com/click/-/6432445/cart',
       model: 'strix',

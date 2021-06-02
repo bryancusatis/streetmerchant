@@ -87,6 +87,20 @@ export const Evga: Store = {
       series: '3080',
       url: 'https://www.evga.com/products/product.aspx?pn=10G-P5-3885-KR',
     },
+    // 12G-P5-3967-KR
+    {
+      brand: 'evga',
+      model: 'ftw3',
+      series: '3080ti',
+      url: 'https://www.evga.com/products/product.aspx?pn=12G-P5-3967-KR',
+    },
+    // 12G-P5-3955-KR
+    {
+      brand: 'evga',
+      model: 'xc3',
+      series: '3080ti',
+      url: 'https://www.evga.com/products/product.aspx?pn=12G-P5-3955-KR',
+    },
     {
       brand: 'evga',
       model: 'xc3 black',
